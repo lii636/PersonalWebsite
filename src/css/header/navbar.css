@@ -1,0 +1,23 @@
+.nav-item {
+    color: white;
+    background-color: #2e2a2a;
+}
+.nav-link{
+    color:white !important;
+}
+.nav-link:active{
+    color:white;
+    background-color: #04aa6d;
+}
+#navactive{
+    color:white;
+    background-color: #04aa6d;
+}
+.nav-link:hover{
+    color: white;
+    background-color: #04aa6d;
+}
+.nav-link a:hover:not(.active){
+    color: white !important;
+    background-color: #04aa6d !important;
+}
