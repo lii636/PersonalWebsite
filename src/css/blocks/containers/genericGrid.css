@@ -1,0 +1,21 @@
+.genericGrid{
+    background: #1a1818;
+    margin-left: 300px;
+    margin-right: 300px;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.grid__item{
+    padding: 25px;
+}
+.grid__item__p{
+    padding: 25px;
+    font-size: x-large;
+    text-align: center;
+    color: white;
+}
+.grid__item__img{
+    padding: 10px;
+    width: 500px;
+    height: 500px;
+}

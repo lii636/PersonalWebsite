@@ -1,0 +1,7 @@
+.genericHeading{
+    display: grid;
+    justify-content: center;
+    color: white;
+    background: #1a1818;
+    margin-bottom: 0px;
+}

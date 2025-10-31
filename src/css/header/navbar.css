@@ -1,9 +1,10 @@
 .nav-item {
     color: white;
+    font-size: x-large;
     background-color: #2e2a2a;
 }
 .nav-link{
-    color:white !important;
+    color:white ;
 }
 .nav-link:active{
     color:white;

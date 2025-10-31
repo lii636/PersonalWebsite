@@ -1,3 +1,9 @@
 @import url(./header/navbar.css);
-@import url(./header/heading.css);
-@import url(blocks/containers/homegrid.css);
+@import url(blocks/text/heading.css);
+@import url(blocks/containers/genericGrid.css);
+@import url(blocks/text/generictext.css);
+
+
+body{
+    background: linear-gradient(90deg,rgba(0, 46, 41, 1) 0%, rgba(26, 24, 24, 1) 15%,rgba(26, 24, 24, 1) 85%, rgba(0, 46, 41, 1) 100%);
+}
